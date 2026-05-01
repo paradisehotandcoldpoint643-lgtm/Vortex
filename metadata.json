@@ -1,0 +1,6 @@
+{
+  "name": "VoxelVision",
+  "description": "A futuristic 3D voxel editor controlled by hand gestures using Three.js and MediaPipe hand tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["3D Rendering", "Hand Gesture Control"]
+}
